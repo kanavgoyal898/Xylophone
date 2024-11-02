@@ -1,8 +1,8 @@
-# EggTimer
+# Xylophone
 
 ## Introduction
 
-EggTimer is a simple iOS application designed to play sound effects when different buttons are pressed. It utilizes the AVFoundation framework to handle audio playback, making it easy for users to interact with and enjoy.
+Xylophone is a simple iOS application designed to play sound effects when different buttons are pressed. It utilizes the AVFoundation framework to handle audio playback, making it easy for users to interact with and enjoy.
 
 ### Preview
 
@@ -51,4 +51,4 @@ The storyboard file defines the user interface, including buttons that trigger a
 
 ## Conclusion
 
-EggTimer is a straightforward and fun application that demonstrates basic audio playback functionality in iOS. By integrating AVFoundation, it provides an excellent example of how to work with audio in your apps. Feel free to explore and expand the app with additional features or sound effects.
+Xylophone is a straightforward and fun application that demonstrates basic audio playback functionality in iOS. By integrating AVFoundation, it provides an excellent example of how to work with audio in your apps. Feel free to explore and expand the app with additional features or sound effects.
